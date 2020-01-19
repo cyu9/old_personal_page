@@ -1,6 +1,6 @@
 # Site
 # repository: sproogen/resume-theme
-# favicon: images/favicon.ico
+favicon: images/favicon.ico
 
 # Personal info
 name: Calvin Yu
@@ -22,9 +22,9 @@ linkedin_username: calvinyu91
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/image.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Calvin and I'm a software engineer in the medical devices
+  Hi, my name is Calvin and I'm a software engineer in the medical devices
   industry. I also do robotics research on the side.
 
 
@@ -42,11 +42,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+   - Personal Training
+   - Drinking Tea
+   - Reading
+
 
 # Footer
 footer_show_references: true
