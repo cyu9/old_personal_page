@@ -1,5 +1,6 @@
 # Site
-
+# repository: sproogen/resume-theme
+# favicon: images/favicon.ico
 
 # Personal info
 name: Calvin Yu
@@ -8,24 +9,26 @@ email: calvinyu@craftnetics.ai
 
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  cyu9
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: cyuu91
+linkedin_username: calvinyu91
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Calvin and I'm a software engineer in the medical devices
+  industry. I also do robotics research on the side.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+  I am most skilled in: <mark>Software Development</mark> and <mark>Snacking</mark>
 
 # Projects Section
 # projects_title: Projects
