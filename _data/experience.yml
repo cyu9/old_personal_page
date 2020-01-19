@@ -9,12 +9,9 @@
 
 - layout: left
   company: Philips Healthcare
-  link: philips.com
+  link: usa.philips.com
   job_title: System Test Engineer 2
   dates: February 2016 - May 2019
-  quote: >
-   World leader in the design, development and contract manufacture of
-   sophisticated medical systems utilizing radiofrequency, ultrasound and
-   other energy sources.
+
   description: | # this will include new lines to allow paragraphs
    I develop and test embedded software.

@@ -2,11 +2,6 @@
   name: Georgia Institute of Technology
   dates: 2016 - 2018
   qualification: M.S. Computer Science
-  quote: >
-    "In the future, farmers could send machines into their fields to inspect
-    the crops, workers on manufacturing floors could direct robots to one
-    side of the warehouse to collect items, then quickly direct them to
-    another area if the need changes."
   description: | # this will include new lines to allow paragraphs
     Completed my Masters while working full-time and receiving immense support
     from family and friends.
@@ -17,7 +12,5 @@
   name: Purdue University
   dates: 2009 - 2013
   qualification: B.S. Biomedical Engineering
-  quote: >
-    Boiler Up!
   description: | # this will include new lines to allow paragraphs
     Learned about being a jack of all trades and master none.
