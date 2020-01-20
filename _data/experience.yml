@@ -4,7 +4,7 @@
   job_title: Software Engineer
   dates: May 2019 - Present
   description: | # this will include new lines to allow paragraphs
-   I develop and test embedded software.
+    I develop and test embedded software.
 
 - layout: left
   company: Philips Healthcare
@@ -12,8 +12,15 @@
   job_title: System Test Engineer 2
   dates: February 2016 - May 2019
   description: | # this will include new lines to allow paragraphs
-   I develop and test embedded software.
+    I develop and test embedded software.
 
+- layout: left
+  company: test
+  link: test
+  job_title: test
+  dates: test
+  description: |
+    test
  # - layout: left
  #   company: Beckman Coulter
  #   link: beckmancoulter.com
