@@ -22,10 +22,10 @@
    description: | # this will include new lines to allow paragraphs
     I develop and test embedded software.
 
- - layout: left
-   company: Siemens Healthcare
-   link: siemens-healthineers.com
-   job_title: Software Test Engineer
-   dates: October 2013 - January 2015
-   description: | # this will include new lines to allow paragraphs
-    I develop and test embedded software.
+ # - layout: left
+ #   company: Siemens Healthcare
+ #   link: siemens-healthineers.com
+ #   job_title: Software Test Engineer
+ #   dates: October 2013 - January 2015
+ #   description: | # this will include new lines to allow paragraphs
+ #    I develop and test embedded software.
