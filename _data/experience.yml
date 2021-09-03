@@ -4,7 +4,7 @@
   job_title: Software Engineer
   dates: May 2019 - Present
   description: | # this will include new lines to allow paragraphs
-    I develop and test embedded software.
+    I develop and test embedded software used in RF generators and medical devices.
 
 - layout: left
   company: Philips Healthcare
@@ -12,7 +12,7 @@
   job_title: System Test Engineer 2
   dates: February 2016 - May 2019
   description: | # this will include new lines to allow paragraphs
-    I develop and test embedded software.
+    I did system, integration, and unit level testing on intravascular ultrasound imaging applications and algorithms.
 
 - layout: left
   company: Beckman Coulter
@@ -27,7 +27,7 @@
  #   job_title: Systems Engineer
  #   dates: February 2015 - February 2016
  #   description: | # this will include new lines to allow paragraphs
- #    I develop and test embedded software.
+ #    I defined and tested system level requirements.
 
  # - layout: left
  #   company: Siemens Healthcare
@@ -35,4 +35,4 @@
  #   job_title: Software Test Engineer
  #   dates: October 2013 - January 2015
  #   description: | # this will include new lines to allow paragraphs
- #    I develop and test embedded software.
+ #    I did software testing on system application that is used to detect bacteria.
