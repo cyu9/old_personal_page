@@ -4,8 +4,8 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Calvin Yu
-title: Software Engineer and Part-time Robotics Researcher
-email: calvinyu@craftnetics.ai
+title: Software Engineer and Electrical Engineering Doctorate Student
+email: calvinkyu91@gmail.com
 
 
 # Social links
@@ -25,7 +25,7 @@ linkedin_username: calvinyu91
 about_profile_image: images/image.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Calvin and I'm a software engineer in the medical devices
-  industry. I also do robotics research on the side.
+  industry. I'm also a electrical engineering doctorate student.
 
 
   I am most skilled in: <mark>Software Development</mark> and <mark>Snacking</mark>
