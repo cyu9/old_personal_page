@@ -20,14 +20,15 @@
   job_title: Systems Engineer
   dates: February 2015 - February 2016
   description: |
-    test
- # - layout: left
- #   company: Beckman Coulter
- #   link: beckmancoulter.com
- #   job_title: Systems Engineer
- #   dates: February 2015 - February 2016
- #   description: | # this will include new lines to allow paragraphs
- #    I defined and tested system level requirements.
+    I defined and tested system level requirements.
+    
+ - layout: left
+   company: Beckman Coulter
+   link: beckmancoulter.com
+   job_title: Systems Engineer
+   dates: February 2015 - February 2016
+   description: | # this will include new lines to allow paragraphs
+    I did software testing on system application that is used to detect bacteria.
 
  # - layout: left
  #   company: Siemens Healthcare
